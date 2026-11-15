@@ -1,0 +1,6 @@
+2026-11-15 16:34:59 · v2.21.2-prueba · Android 4.1.2 (API 16) · unknown Android SDK built for x86
+PRUEBA verificar-apk: propio=true otro=false
+
+2026-11-15 16:36:52 · v2.21.2-prueba · Android 4.1.2 (API 16) · unknown Android SDK built for x86
+PRUEBA odo-sim: ok=true sumo=7.4492188 esperado=7.450246
+
